@@ -1,0 +1,1 @@
+Everyday neural network projects
